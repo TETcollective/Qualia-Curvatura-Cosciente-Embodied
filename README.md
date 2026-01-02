@@ -5,9 +5,6 @@ Manifesto della Coscienza Embodied Quantistica I Qualia come Curvatura Cosciente
 # Manifesto della Coscienza Embodied Quantistica  
 **I Qualia come Curvatura Cosciente Embodied Quantistica**
 
-![Cover](https://via.placeholder.com/1200x600/000000/ffffff?text=Curvatura+Cosciente+Embodied+Quantistica)  
-*(Sostituisci con screenshot della copertina o arte generata)*
-
 ## Descrizione
 
 Questo manifesto propone un modello rigoroso in cui la coscienza – e in particolare i **qualia** (l’esperienza soggettiva vissuta) – emerge come **curvatura cosciente locale** dalla rete embodied quantistica-dissipativa-auto-organizzante.
