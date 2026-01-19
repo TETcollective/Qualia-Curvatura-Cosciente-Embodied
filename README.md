@@ -26,13 +26,17 @@ Il modello integra:
 
 - `Manifesto_Qualia_Curvatura_Cosciente.pdf` – versione completa
 - `Manifesto_Qualia_Curvatura_Cosciente.tex` – sorgente LaTeX
-- `LICENSE.md` – licenza non commerciale
+
 
 ## Copyright and Usage Rights
 
 © 2026 TET Collective, Rome, Italy. **All Rights Reserved.**
 
-This repository previously contained a Creative Commons CC BY-NC 4.0 license file, which is hereby **revoked and superseded**.
+## Licenza 
+
+Questo lavoro è pubblicato sotto licenza  
+**CC BY-NC-ND 4.0**  
+https://creativecommons.org/licenses/by-nc-nd/4.0/deed.it
 
 From now on, this work (paper, figures, data, code, and all contents) is fully protected by copyright. No open license is granted.
 
@@ -47,4 +51,3 @@ The primordial three-leaf clover knot calls for conscious and authorized engagem
 Per collaborazioni, domande o utilizzi autorizzati:  
 info@tetcollective.org | https://tetcollective.org
 
-Grazie per l'interesse – vibra alto ❤️
